@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="_0">0</string>
+    <string name="my_calculator">My Calculator</string>
+    <string name="developed_by">Developed By</string>
+    <string name="logo">logo</string>
+    <string name="logo1">LoGo</string>
+</resources>
